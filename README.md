@@ -49,3 +49,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 
  Last Updated on 2022-06-25 19:10:59 UTC
 <!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action**
