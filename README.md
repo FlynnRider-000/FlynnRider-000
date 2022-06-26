@@ -23,11 +23,13 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 812 Contributions in the Year 2022
+> 🏆 817 Contributions in the Year 2022
  > 
 > 📦 929.5 kB Used in GitHub's Storage 
  > 
@@ -37,6 +39,49 @@
  > 
 > 🔑 35 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    139 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
+🌆 Daytime    163 commits    █████░░░░░░░░░░░░░░░░░░░░   21.7% 
+🌃 Evening    264 commits    ████████░░░░░░░░░░░░░░░░░   35.15% 
+🌙 Night      185 commits    ██████░░░░░░░░░░░░░░░░░░░   24.63%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.51% 
+Tuesday      127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
+Wednesday    128 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Thursday     153 commits    █████░░░░░░░░░░░░░░░░░░░░   20.37% 
+Friday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
+Saturday     76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
+Sunday       60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.99%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Kiev
+
+💬 Programming Languages: 
+PHP                      24 mins             █████████████████████████   100.0% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🔥 Editors: 
+VS Code                  24 mins             █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+styletimer               24 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  24 mins             █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -54,7 +99,7 @@ Dart                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FlynnRider-000/FlynnRider-000/main/charts/bar_graph.png) 
 
 
- Last Updated on 2022-06-25 19:10:59 UTC
+ Last Updated on 2022-06-26 01:20:10 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action**
