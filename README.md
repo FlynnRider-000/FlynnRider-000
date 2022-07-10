@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 **🐱 My GitHub Data** 
 
@@ -79,9 +79,9 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               25 repos            ██████████░░░░░░░░░░░░░░░   42.37% 
+JavaScript               26 repos            ███████████░░░░░░░░░░░░░░   44.07% 
 PHP                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
-TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
 Blade                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
 Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
 
@@ -89,7 +89,7 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-07-09 02:50:31 UTC
+ Last Updated on 2022-07-10 01:25:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action**
