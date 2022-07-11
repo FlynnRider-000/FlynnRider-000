@@ -23,9 +23,9 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,7 +89,7 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-07-11 01:20:11 UTC
+ Last Updated on 2022-07-11 07:19:53 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action**
